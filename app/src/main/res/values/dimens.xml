@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing (del design system de Stitch) -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <!-- Layout -->
+    <dimen name="screen_margin">16dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="input_corner_radius">4dp</dimen>
+    <dimen name="badge_corner_radius">100dp</dimen>
+
+    <!-- Componentes -->
+    <dimen name="top_app_bar_height">64dp</dimen>
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="avatar_size">44dp</dimen>
+    <dimen name="icon_size_sm">18dp</dimen>
+    <dimen name="icon_size_md">24dp</dimen>
+    <dimen name="icon_size_lg">32dp</dimen>
+
+    <!-- Touch targets mínimos (accesibilidad) -->
+    <dimen name="min_touch_target">48dp</dimen>
+
+    <!-- Tipografía -->
+    <dimen name="text_headline">28sp</dimen>
+    <dimen name="text_title_lg">22sp</dimen>
+    <dimen name="text_title_md">16sp</dimen>
+    <dimen name="text_body_lg">16sp</dimen>
+    <dimen name="text_body_md">14sp</dimen>
+    <dimen name="text_label_lg">14sp</dimen>
+    <dimen name="text_label_md">12sp</dimen>
+</resources>

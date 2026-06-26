@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoRed</string>
+    <string name="app_tagline">Gestión inteligente de concesionarias</string>
+
+    <!-- Login -->
+    <string name="label_email">Correo electrónico</string>
+    <string name="hint_email">ejemplo@autored.com</string>
+    <string name="label_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="no_account">¿No tenés una cuenta?</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+
+    <!-- Registro -->
+    <string name="title_create_account">Crear cuenta</string>
+    <string name="subtitle_choose_type">Seleccioná el tipo de cuenta que mejor se adapte a tus necesidades.</string>
+    <string name="type_usuario">Usuario</string>
+    <string name="type_usuario_desc">Buscá y explorá concesionarias</string>
+    <string name="type_concesionaria">Concesionaria</string>
+    <string name="type_concesionaria_desc">Registrá tu concesionaria</string>
+    <string name="btn_continuar">Continuar</string>
+
+    <!-- Registro usuario -->
+    <string name="title_register_usuario">Registro de usuario</string>
+    <string name="label_nombre">Nombre completo</string>
+    <string name="label_confirm_password">Confirmar contraseña</string>
+    <string name="already_have_account">¿Ya tenés una cuenta?</string>
+    <string name="btn_login_link">Iniciar sesión</string>
+
+    <!-- Registro concesionaria -->
+    <string name="title_register_concesionaria">Registro de concesionaria</string>
+    <string name="section_info_personal">Información personal</string>
+    <string name="section_info_comercial">Información comercial</string>
+    <string name="label_nombre_concesionaria">Nombre de la concesionaria</string>
+    <string name="label_direccion">Dirección</string>
+    <string name="label_telefono">Teléfono</string>
+    <string name="label_email_contacto">Email de contacto</string>
+    <string name="label_descripcion">Descripción</string>
+    <string name="btn_enviar_solicitud">Enviar solicitud</string>
+    <string name="verificacion_requerida">Verificación requerida</string>
+    <string name="verificacion_desc">Su solicitud será revisada por nuestro equipo en un plazo de 48hs.</string>
+
+    <!-- Pendiente de aprobación -->
+    <string name="title_pending">Solicitud en revisión</string>
+    <string name="msg_pending">Tu cuenta está siendo verificada por nuestro equipo. Te notificaremos cuando esté aprobada.</string>
+    <string name="tiempo_estimado">Tiempo estimado</string>
+    <string name="tiempo_estimado_desc">Generalmente demora entre 24 y 48 horas hábiles.</string>
+    <string name="btn_logout">Cerrar sesión</string>
+
+    <!-- Admin panel -->
+    <string name="title_admin_panel">Panel de control</string>
+    <string name="admin_welcome">Bienvenido, Administrador.</string>
+    <string name="admin_card_usuarios">Gestionar usuarios</string>
+    <string name="admin_card_usuarios_desc">Administrá accesos y perfiles.</string>
+    <string name="admin_card_pendientes">Concesionarias pendientes</string>
+    <string name="admin_card_pendientes_desc">Nuevas solicitudes de registro.</string>
+    <string name="actividad_reciente">Actividad reciente</string>
+    <string name="ver_todo">Ver todo</string>
+
+    <!-- Gestión usuarios -->
+    <string name="title_users">Gestión de usuarios</string>
+    <string name="hint_search_users">Buscar por nombre o email…</string>
+    <string name="label_total_usuarios">Total usuarios</string>
+    <string name="label_pendientes">Pendientes</string>
+    <string name="lista_miembros">Lista de miembros</string>
+    <string name="ver_todos">Ver todos</string>
+    <string name="badge_admin">ADMIN</string>
+    <string name="badge_concesionaria">CONCESIONARIA</string>
+    <string name="badge_usuario">USUARIO</string>
+    <string name="badge_activo">ACTIVO</string>
+    <string name="badge_pendiente">PENDIENTE</string>
+
+    <!-- Solicitudes pendientes -->
+    <string name="title_solicitudes">Solicitudes pendientes</string>
+    <string name="subtitle_solicitudes">Revisá las nuevas concesionarias que desean unirse a la red.</string>
+    <string name="btn_aprobar">Aprobar</string>
+    <string name="btn_rechazar">Rechazar</string>
+
+    <!-- Panel concesionaria -->
+    <string name="title_mi_concesionaria">Mi concesionaria</string>
+    <string name="title_mis_autos">Mis autos</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_ver_todos">Ver todos</string>
+
+    <!-- Agregar / editar auto -->
+    <string name="title_agregar_auto">Agregar auto</string>
+    <string name="title_editar_auto">Editar auto</string>
+    <string name="label_marca">Marca</string>
+    <string name="hint_marca">Ej: Toyota</string>
+    <string name="label_modelo">Modelo</string>
+    <string name="hint_modelo">Ej: Corolla</string>
+    <string name="label_anio">Año</string>
+    <string name="label_precio">Precio</string>
+    <string name="label_stock">Stock</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="label_descripcion_auto">Descripción</string>
+    <string name="hint_descripcion_auto">Detalles del vehículo, estado, equipamiento…</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="tipo_sedan">Sedán</string>
+    <string name="tipo_suv">SUV</string>
+    <string name="tipo_pickup">Pick-up</string>
+    <string name="tipo_hatchback">Hatchback</string>
+    <string name="tipo_coupe">Coupé</string>
+    <string name="tipo_otro">Otro</string>
+
+    <!-- Home usuario -->
+    <string name="title_concesionarias">Concesionarias</string>
+    <string name="hint_search_concesionarias">Buscar por nombre o ciudad…</string>
+    <string name="btn_ver_autos">Ver autos</string>
+
+    <!-- Detalle concesionaria / autos -->
+    <string name="title_autos_disponibles">Autos disponibles</string>
+    <string name="label_precio_estimado">Precio final estimado</string>
+    <string name="label_stock_disponible">%d disponibles</string>
+
+    <!-- Navegación -->
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_perfil">Perfil</string>
+
+    <!-- Errores comunes -->
+    <string name="error_campo_vacio">Este campo es obligatorio</string>
+    <string name="error_email_invalido">Ingresá un email válido</string>
+    <string name="error_passwords_no_coinciden">Las contraseñas no coinciden</string>
+    <string name="error_generico">Ocurrió un error. Intentá de nuevo.</string>
+</resources>

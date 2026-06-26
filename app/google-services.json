@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278548781667",
+    "project_id": "autored-994f7",
+    "storage_bucket": "autored-994f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278548781667:android:377e6d646eaa2f378fb656",
+        "android_client_info": {
+          "package_name": "com.example.parcial2_triaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSlu74CEMRr9G7VJBT2PCXU_bi5cXjvYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
